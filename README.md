@@ -31,8 +31,8 @@ The final analysis clearly demonstrates the superiority of the Offline RL approa
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-    cd YOUR_REPO_NAME
+    git clone https://github.com/Divyansh-debug/AutoLoan-Policy-Optimization.git
+    cd AutoLoan-Policy-Optimization
     ```
 
 2.  **Install Dependencies:**
@@ -44,7 +44,7 @@ The final analysis clearly demonstrates the superiority of the Offline RL approa
 3.  **Kaggle API Key:**
     * This project uses the Kaggle API to download the dataset. Ensure you have your `kaggle.json` API key set up.
     * You can download it from your Kaggle account settings (`Account` -> `API` -> `Create New API Token`).
-    * Place the `kaggle.json` file in the appropriate location (e.g., `~/.kaggle/kaggle.json` on Linux/Mac, `C:\Users\<Username>\.kaggle\kaggle.json` on Windows) or follow the instructions in the first cell of the notebook if running in Colab.
+    * Place the `kaggle.json` file in the appropriate location.
 
 ---
 
